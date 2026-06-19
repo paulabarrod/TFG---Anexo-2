@@ -8,11 +8,13 @@ Debido al gran volumen de la base de datos no se incluye el conjunto de datos or
 
 ## Objetivos del Caso Práctico
 Este caso práctico tiene como objetivo principal la clasificación de estudiantes finlandeses similares según el estudio PISA 2022. Se consideran los siguientes objetivos secundarios:
+
 	1. Identificación de grupos similares no establecidos por PISA 2022 mediante técnicas de agrupamiento.
 	2. Analizar los factores que ocasionan la división a través de métodos de clasificación.
 
 ## Estructura del Código
 El cuaderno de Jupyter se estructura con el siguiente orden meteodológico:
+
 	1. Carga y preparación de la base de datos: se importa el conjunto de datos oficial de la OECD.
 	2. Descripción de la muestra: se tratan los valores faltantes y se decribe el comportamiento univariante y multivariante de las variables.
 	3. Resultados: Primero, se idetifica la clasificación de los alumnos y después se interpretan los factors asociados a la clasificación.
