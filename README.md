@@ -17,7 +17,7 @@ El cuaderno de Jupyter se estructura con el siguiente orden meteodológico:
 
 	1. Carga y preparación de la base de datos: se importa el conjunto de datos oficial de la OECD.
 	2. Descripción de la muestra: se tratan los valores faltantes y se decribe el comportamiento univariante y multivariante de las variables.
-	3. Resultados: Primero, se idetifica la clasificación de los alumnos y después se interpretan los factors asociados a la clasificación.
+	3. Resultados: Primero, se identifica la clasificación de los alumnos y después se interpretan los factores asociados a la clasificación.
 
 ## Requisitos
 Para ejectuar este cuaderno se necesitan las siguientes librerías:
